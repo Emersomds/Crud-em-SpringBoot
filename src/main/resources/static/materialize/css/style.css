@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+body{
+	width: 1000px;
+}
+
+
+form{
+	margin-left: 40px;
+	margin-top: 50px;
+}
+
+#btn{
+	margin-top: 20px;
+	margin-left: 100px;
+}
+
+table{
+	margin-left: 40px;
+	margin-top: 50px;
+}
